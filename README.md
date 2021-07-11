@@ -1,2 +1,1 @@
-# Discord-Project
-This project was last updated on 25-5-2021
+Welcome to Aliff Putra's personal projects!
