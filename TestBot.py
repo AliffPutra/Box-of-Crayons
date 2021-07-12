@@ -1,7 +1,7 @@
 # ------------------------------------------------------------
 # Discord Trading bot for Sim Companies 
 #
-# Copyright  		:	(c) 2021 by Aliff Putra
+# Owner  			:	Aliff Putra
 # Version	 		:	1.0.0      
 # Update  	 		:	25/5/21
 # 
