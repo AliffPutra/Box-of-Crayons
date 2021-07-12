@@ -1,5 +1,4 @@
-# Discord-Project
-
+# Discord Project
 ## Index
 
 ### Discord.py
