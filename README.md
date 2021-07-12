@@ -1,6 +1,5 @@
 # Discord Project
 ## Index
-
 ### Discord.py
 [Discord.py](https://discordpy.readthedocs.io/en/stable/intro.html) is a modern, easy to use, feature-rich, and async ready API wrapper for Discord. 
 
