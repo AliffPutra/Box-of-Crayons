@@ -1,4 +1,3 @@
-import pandas
 from pyfiglet import Figlet
 from termcolor import colored
 
