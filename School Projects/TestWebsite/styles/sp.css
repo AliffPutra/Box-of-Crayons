@@ -1,0 +1,75 @@
+.info {
+	font-family: 'Courier New', Courier, monospace;
+	text-align: left;
+	position: relative;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+.grid-container {
+	display: grid;
+	grid-template-columns: auto;
+	grid-template-rows: auto;
+	justify-content: space-evenly;
+	justify-items: center;
+	align-content: space-evenly;
+	align-items: center;
+	gap: 10px;
+	padding: 10px;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+.grid-item {
+	font-family: 'Courier New', Courier, monospace;
+	font-size: 18px;
+}
+
+.item1 {
+	grid-column: 1 / span 1;
+	grid-row: 1 / span 3;
+}
+
+.item2 {
+	text-align: left;
+	grid-column: 2 / span 2;
+	grid-row: 1 / span 2;
+}
+
+.item3 {
+	grid-column: 3;
+	grid-row: 4 / span 3;
+}
+
+.item4 {
+	text-align: right;
+	grid-column: 1 / span 2;
+	grid-row: 4 / span 2;
+}
+
+.item5 {
+	grid-column: 1 / span 1;
+	grid-row: 7 / span 1;
+}
+
+.item6 {
+	text-align: left;
+	grid-column: 2 / span 2;
+	grid-row: 7 / span 2;
+}
+
+.item7 {
+	grid-column: 3;
+	grid-row: 9 / span 3;
+}
+
+.item8 {
+	text-align: right;
+	grid-column: 1 / span 2;
+	grid-row: 9 / span 2;
+}
+
+img{
+	width:200px;
+	height: 180px;
+}

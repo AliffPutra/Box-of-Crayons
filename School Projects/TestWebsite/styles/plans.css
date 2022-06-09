@@ -1,0 +1,37 @@
+.grid-container {
+  position: relative;
+  margin-left:10%; 
+  margin-right:10%;
+  display: grid;
+  grid-template-columns: auto auto auto;
+  gap: 10px;
+  background-color: #696969;
+  padding: 10px;
+}
+
+.grid-container > div {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid black;
+  text-align: center;
+  font-size: 28px;
+}
+.info{
+  text-align: left;
+  position: relative;
+  margin-left:10%; 
+  margin-right:10%;
+}
+
+h3{
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+}
+p{
+  text-align: left;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+img{
+  width:250px;
+  height: 250px;
+}
