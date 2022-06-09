@@ -61,10 +61,10 @@ The purpose of this project is to project is to visualize various crimes reporte
 
 ---------------------------------------
 
-<h1 align="center"><a href=https://github.com/AliffPutra/Box-of-Crayons/tree/main/ASCII%20Art>Test Website</h1></a>
+<h1 align="center"><a href=https://github.com/AliffPutra/Box-of-Crayons/tree/main/TestWebsite>Test Website</h1></a>
 <b>Timeframe:</b> May 22
 <br><br>
-This is a test website</a>.
+This is a test website for a school project</a>.
 
 ##### Prerequisites: MVS
 
