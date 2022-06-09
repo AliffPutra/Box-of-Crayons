@@ -25,6 +25,3 @@ The script should include test cases, results and technical documentation for th
   8. The project should also include a Test Case with appropriate Test function(s) to test your application.  
 
   Finally, a presentation is required to share your insights.
-
-  ### Install
-To install this web scrapper, download DA_Group7(Comopleted) folder in this repository. It is recommended to use pycharms if you want to modify its parameteres.
